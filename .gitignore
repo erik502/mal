@@ -22,7 +22,5 @@ GRTAGS
 logs
 old
 tmp/
-/impls/zig/zig-cache
 /.vs
-/impls/zig.2/zig-out/bin
-/impls/zig.2/zig-cache
+/impls/rust
